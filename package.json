@@ -1,11 +1,29 @@
 {
   "name": "@cdnllc/ns-how-to-npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeSchool how-to-npm workshopper",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Monico Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdnadmin/cdnllc-how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "nodeschool",
+    "atx"
+  ],
+  "bugs": {
+    "url": "https://github.com/cdnadmin/cdnllc-how-to-npm/issues"
+  },
+  "homepage": "https://github.com/cdnadmin/cdnllc-how-to-npm#readme"
 }
