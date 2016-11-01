@@ -1,6 +1,6 @@
 {
   "name": "@cdnllc/cdnllc-how-to-npm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NodeSchool how-to-npm workshopper",
   "main": "index.js",
   "scripts": {
